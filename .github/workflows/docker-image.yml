@@ -30,4 +30,4 @@ jobs:
         uses: docker/build-push-action@v4
         with:
           push: true
-          tags: KingOfDog/lcov:latest
+          tags: kingofdog/lcov:latest
